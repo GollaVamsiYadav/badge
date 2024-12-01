@@ -1,6 +1,7 @@
 body {
     margin: 20px;
     font-family: Segoe UI Emoji;
+  
 }
 
 div {
@@ -8,9 +9,9 @@ div {
     border: 5px solid skyblue;
     border-radius: 20px;
     color: white;
+  margin-left:50px;
     text-align: center;
-    margin-left: 25%;
-    width: 50%
+    width: 20%
 }
 
 h1 {
@@ -32,5 +33,6 @@ p {
 
 .div {
     background-color: white;
-    margin-top: 10px;
+  margin-top:20px;
+    margin-left: 170px;
 }
