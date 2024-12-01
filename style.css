@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: Segoe UI Emoji;
+}
+
+div {
+    background-color: black;
+    border: 5px solid skyblue;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%
+}
+
+h1 {
+    background-color: black;
+
+
+    color: white;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+.div {
+    background-color: white;
+    margin-top: 10px;
+}
